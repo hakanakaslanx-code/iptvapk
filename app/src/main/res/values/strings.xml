@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IPTV Smarters Clone</string>
+    <string name="playlist_url_hint">M3U playlist URL</string>
+    <string name="epg_url_hint">EPG XML URL (optional)</string>
+    <string name="load_playlist">Load playlist</string>
+    <string name="player_not_ready">Video player is preparing...</string>
+</resources>
